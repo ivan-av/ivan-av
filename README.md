@@ -1,4 +1,4 @@
-# Hi I'm Iván Avila
+# Hi! I'm Iván Avila
 
 [![Twitter: van_av_](https://img.shields.io/twitter/follow/van_av_?style=social)](https://twitter.com/van_av_) [![Linkedin: Iván Avila](https://img.shields.io/badge/-Iván_Avila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-daniel-avila/)](https://www.linkedin.com/in/ivan-daniel-avila/) [![GitHub ivan-av](https://img.shields.io/github/followers/ivan-av?label=follow&style=social)](https://github.com/ivan-av)
 
@@ -9,7 +9,7 @@ const aboutMe = {
   code: [Javascript, HTML, CSS],
   technologies: {
     frontEnd: {
-      js: ["Reactjs", "Redux", "React Router", "Axios", "Http/Ajax"],
+      js: ["Reactjs", "Redux", "React Router", "Axios", "HTTP/AJAX"],
     },
     backEnd: {
       js: ["Nodejs", "Express"],
