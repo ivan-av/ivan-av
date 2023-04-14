@@ -6,17 +6,17 @@
 const aboutMe = {
   name: "Iván Avila",
   pronouns: "he" || "him",
-  code: [Javascript, HTML, CSS],
+  code: [TypeScript, Javascript, HTML, CSS],
   technologies: {
     frontEnd: {
-      js: ["Reactjs", "Redux", "React Router", "Axios", "HTTP/AJAX"],
+      js: ["Vue.js", "Nuxt.js", "React.js", "Tailwind CSS"],
     },
     backEnd: {
       js: ["Nodejs", "Express"],
     },
     databases: ["PostgreSQL"],
   },
-  currentOccupation: ["last year student, open for job opportunities"],
+  currentOccupation: ["front end developer"],
   currentLearning: {
     fullStackWebDevelopment: {
       frontEnd: "70%",
@@ -33,7 +33,7 @@ const aboutMe = {
 
 ## Abstract
 
-I'm interested in develop web services with React and implement and learn new technologies related with cloud services.
+I'm interested in develop web services with Vue.js and implement and learn new technologies related with cloud services.
 
 I am a proactive person who loves learning new technologies and trying to understand how things work. Being involved in the IT area has given me the opportunity to connect with people and challenge myself by seeking to provide services and solutions
 
